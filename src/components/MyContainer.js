@@ -6,7 +6,7 @@ const MyContainer = () => {
     <div>
         <MyList />
     </div>
-
+    
   )
 }
 
